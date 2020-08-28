@@ -1,7 +1,10 @@
+@import "reset.css";
+
 * {
     box-sizing: border-box;
 }
 
-body {
-    background-color: skyblue;
+header .logo {
+    width: 80px;
+    height: 60px;
 }
